@@ -17,10 +17,6 @@ An intelligent math problem solver powered by Google's Gemini API. Upload or cap
 - 🎨 **Beautiful UI**: Modern, responsive design with Tailwind CSS and shadcn/ui
 - ⚡ **Fast & Lightweight**: Built with Vite for instant hot reload and optimized builds
 
-## 🎬 Live Preview
-
-**Try it out now**: https://mathmaticssolver.netlify.app/
-
 ## 🚀 Quick Start
 
 ### Prerequisites
